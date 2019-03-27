@@ -1,0 +1,21 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "My calc",
+  "main": ".src/index.js",
+  "dependencies": {
+   
+  },
+  "scripts": {
+    "dev": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
