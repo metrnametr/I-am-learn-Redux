@@ -1,0 +1,13 @@
+.header-title{
+    margin: .7rem 0;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.btn-container{
+    margin: 1.5rem 0;
+}
+
+button.btn-filter.active{
+    background: black;
+}
